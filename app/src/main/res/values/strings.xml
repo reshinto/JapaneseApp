@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Japanese</string>
+
+    <!-- activity_main.xml text names -->
+    <string name="categoryNumbers">Numbers</string>
+    <string name="categoryFamily">Family Members</string>
+    <string name="categoryColors">Colors</string>
+    <string name="categoryPhrases">Phrases</string>
+</resources>
